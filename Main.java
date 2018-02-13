@@ -12,6 +12,7 @@ public class Main {
         index = 0;
         String hexIdentifier = "0X";
 
+        //Input hexadecimal number
         System.out.print("Enter a hexadecimal number: ");
         String input = scnr.nextLine();
         input = input.toUpperCase();
